@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>36B9B72B-21F9-478D-992C-FAFC7A9A4136</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36B9B72B-21F9-478D-992C-FAFC7A9A4136.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZupProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZupProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ZupProject with scheme ZupProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>579541665.65888596</real>
+			<key>timeStoppedRecording</key>
+			<real>579541667.26538801</real>
+			<key>title</key>
+			<string>Building project ZupProject with scheme ZupProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>36B9B72B-21F9-478D-992C-FAFC7A9A4136</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

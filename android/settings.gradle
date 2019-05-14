@@ -1,0 +1,3 @@
+rootProject.name = 'ZupProject'
+
+include ':app'
